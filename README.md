@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<p align="center">Frontend + UI/UX</p>
+<p align="center">Frontend + Backend</p>
 
 ###
 
@@ -60,17 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<p align="center">Backend + More</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
@@ -105,10 +95,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ArshAnan/ArshAnan/output/snake.svg" alt="Snake animation" />
 
 ###
 
