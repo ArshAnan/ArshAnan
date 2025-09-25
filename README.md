@@ -18,9 +18,9 @@ I'm an aspiring **Software Engineer** with a deep interest in **AI, Quantum Comp
 ---
 
 ## 🏫 About Me
-- 🎓 **Computer Science Student** @ *City College of New York*  
-- 💻 **Projects**: AI, Quantum Computing, Neural Networks, and Computer Vision  
-- 🌍 **Community & Leadership** – Engaged in **Accenture Career Catalyst, AI4ALL, and TEDxCCNY**  
+- 🎓 **Computer Science** @ *City College of New York*  
+- 💻 **Projects**: AI/Machine Learning, Neural Networks, and Computer Vision  
+- 🌍 **Community & Leadership** – Engaged in **Quantum Computing Club, Cates and TEDxCCNY**  
 
 ---
 
@@ -28,9 +28,7 @@ I'm an aspiring **Software Engineer** with a deep interest in **AI, Quantum Comp
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
@@ -58,14 +56,14 @@ I'm an aspiring **Software Engineer** with a deep interest in **AI, Quantum Comp
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-005571?logo=plotly&logoColor=white&style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFCA28?logo=huggingface&logoColor=black&style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
 
 ### **DevOps & Cloud**
+![Microsoft Azure]([https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge))
+![Amazon AWS]([https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge))
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
@@ -74,20 +72,14 @@ I'm an aspiring **Software Engineer** with a deep interest in **AI, Quantum Comp
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
----
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-32CD32?style=for-the-badge)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/arshanand568/)
 
 ---
 
 ## 🎉 Fun Fact
-I might be deep into AI and quantum computing, but I'm also a huge fan of *Dune* 📘🎬.  
-Let's talk sci-fi, tech, or anything in between!
+I am probably on the internet (or talking to people) about startups, tech, and finance.
+If that sounds like something you do, let's talk :)
