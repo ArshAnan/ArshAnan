@@ -62,8 +62,8 @@ I'm an aspiring **Software Engineer** with a deep interest in **AI, Quantum Comp
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
 
 ### **DevOps & Cloud**
-![Microsoft Azure]([https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge))
-![Amazon AWS]([https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge))
+![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?logo=azuredevops&logoColor=white&style=for-the-badge)
+![Amazon AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
