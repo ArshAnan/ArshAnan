@@ -1,4 +1,4 @@
-# Hi! I'm [Your Name Here] 👋
+# Hiya! I'm Arsh 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=blue)
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Welcome to My GitHub!
 
-I'm an aspiring **Software Engineer** with a deep interest in **AI, Quantum Computing, and Scalable Systems**. Based in NYC, I thrive on solving complex problems and building innovative solutions that push the boundaries of technology.
+I'm an aspiring **Software Engineer** with a deep interest in **AI, Quantum Computing, and Cloud Technologies**, along with a passion for **startups and finance**. Based in NYC, I focus on building innovative solutions and exploring how technology shapes the future of business and entrepreneurship.
 
 ---
 
@@ -19,7 +19,7 @@ I'm an aspiring **Software Engineer** with a deep interest in **AI, Quantum Comp
 
 ## 🏫 About Me
 - 🎓 **Computer Science** @ *City College of New York*  
-- 💻 **Projects**: AI/Machine Learning, Neural Networks, and Computer Vision  
+- 💻 **Projects**: AI/Machine Learning, and Computer Vision  
 - 🌍 **Community & Leadership** – Engaged in **Quantum Computing Club, Cates and TEDxCCNY**  
 
 ---
